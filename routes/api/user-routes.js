@@ -13,3 +13,6 @@ const {
 
 // Takes you to /api/users <GET, POST>
 router.route("/").get(getAllUsers).post(createUsers);
+
+// Takes you to: /api/users/:id <GET, PUT, DELETE request>
+router.route("/:id").get(getUsersById).put(updateUsers).delete(deleteUsers);
