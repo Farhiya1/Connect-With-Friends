@@ -110,3 +110,6 @@ const usersController = {
       .catch((err) => res.status(400).json(err));
   },
 };
+
+// Exporting module users controller
+module.exports = usersController;
