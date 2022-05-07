@@ -45,7 +45,7 @@ To access Github Repository
 
 1. https://github.com/Farhiya1/Connect-With-Friends.git
 
-# Screenshot of application)
+# Screenshot of application
 
 1. Example screenshots displaying GET, POST, PUT, and DELETE methods in Insomnia.
 
