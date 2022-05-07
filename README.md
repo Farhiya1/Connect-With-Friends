@@ -35,6 +35,8 @@ Testing restful API calls with Insomnia
 
 ## Walktrough Video
 
+https://drive.google.com/file/d/1K699iA1DHSADgMlj82TZDow7grDy_gp_/view?usp=sharing
+
 The walkthrough demonstrates the GET, POST, PUT, and DELETE methods for users and thoughts, as well as the POST and DELETE methods for thought reactions and friend lists.
 
 # To access this project the following links are provided:
@@ -43,18 +45,19 @@ To access Github Repository
 
 1. https://github.com/Farhiya1/Connect-With-Friends.git
 
-
 # Screenshot of application)
 
 1. Example screenshots displaying GET, POST, PUT, and DELETE methods in Insomnia.
 
-![Screenshot of completed application](./)
+![Screenshot of completed application](./images/Screenshot1.png)
 
+![Screenshot of completed application](./images/Screenshot2.png)
 
-![Screenshot of completed application](./)
+![Screenshot of completed application](./images/Screenshot3.png)
 
+![Screenshot of completed application](./images/Screenshot4.png)
 
-![Screenshot of completed application](./)
+![Screenshot of completed application](./images/Screenshot5.png)
 
 ## References
 
